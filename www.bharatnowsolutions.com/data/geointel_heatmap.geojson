@@ -1,0 +1,2325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5339895,
+          19.6759452
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "ADILABAD(ST)",
+        "state_name": "Telangana",
+        "total_projects": 6,
+        "high_risk_projects": 0,
+        "total_sanctioned": 1538000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.639,
+          26.4691
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "AJMER",
+        "state_name": "Rajasthan",
+        "total_projects": 8,
+        "high_risk_projects": 0,
+        "total_sanctioned": 2224000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1358153,
+          27.8761073
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "ALIGARH",
+        "state_name": "Uttar Pradesh",
+        "total_projects": 9,
+        "high_risk_projects": 2,
+        "total_sanctioned": 2187000.0,
+        "spatial_risk_score": 0.2222,
+        "cluster_id": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.003476,
+          17.68897
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "ANAKAPALLE",
+        "state_name": "Andhra Pradesh",
+        "total_projects": 20,
+        "high_risk_projects": 2,
+        "total_sanctioned": 5857000.0,
+        "spatial_risk_score": 0.1,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.4654062,
+          26.1346459
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "ARARIA",
+        "state_name": "Bihar",
+        "total_projects": 9,
+        "high_risk_projects": 1,
+        "total_sanctioned": 3861000.0,
+        "spatial_risk_score": 0.1111,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4228984,
+          27.2625165
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "ARUNACHAL WEST",
+        "state_name": "Arunachal Pradesh",
+        "total_projects": 2,
+        "high_risk_projects": 0,
+        "total_sanctioned": 566000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5367513,
+          24.2693869
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "BANASKANTHA",
+        "state_name": "Gujarat",
+        "total_projects": 5,
+        "high_risk_projects": 0,
+        "total_sanctioned": 1295000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3361225,
+          13.0010872
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "BANGALORE RURAL",
+        "state_name": "Karnataka",
+        "total_projects": 2,
+        "high_risk_projects": 0,
+        "total_sanctioned": 566000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.039708,
+          26.345941
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "BARPETA",
+        "state_name": "Assam",
+        "total_projects": 2,
+        "high_risk_projects": 0,
+        "total_sanctioned": 526000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8940642,
+          21.8957942
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "BETUL(ST)",
+        "state_name": "Madhya Pradesh",
+        "total_projects": 3,
+        "high_risk_projects": 0,
+        "total_sanctioned": 809000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9463699,
+          30.206791
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "BHATINDA",
+        "state_name": "Punjab",
+        "total_projects": 11,
+        "high_risk_projects": 0,
+        "total_sanctioned": 3033000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5273594,
+          31.7096767
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "HAMIRPUR_HP",
+        "state_name": "Himachal Pradesh",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 243000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3965501,
+          21.897618
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "RAIGARH(ST)",
+        "state_name": "Chhattisgarh",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 243000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0444182,
+          21.2222313
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "RAVER",
+        "state_name": "Maharashtra",
+        "total_projects": 9,
+        "high_risk_projects": 0,
+        "total_sanctioned": 2547000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1510394,
+          28.9895406
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "SONEPAT",
+        "state_name": "Haryana",
+        "total_projects": 4,
+        "high_risk_projects": 0,
+        "total_sanctioned": 972000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5805178,
+          8.5495014
+        ]
+      },
+      "properties": {
+        "constituency_id": -33,
+        "const_name": "TIRUNELVELI",
+        "state_name": "Tamil Nadu",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 243000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5339895,
+          19.6759452
+        ]
+      },
+      "properties": {
+        "constituency_id": -20,
+        "const_name": "ADILABAD(ST)",
+        "state_name": "Telangana",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 114000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.003476,
+          17.68897
+        ]
+      },
+      "properties": {
+        "constituency_id": -20,
+        "const_name": "ANAKAPALLE",
+        "state_name": "Andhra Pradesh",
+        "total_projects": 3,
+        "high_risk_projects": 0,
+        "total_sanctioned": 358000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8940642,
+          21.8957942
+        ]
+      },
+      "properties": {
+        "constituency_id": -20,
+        "const_name": "BETUL(ST)",
+        "state_name": "Madhya Pradesh",
+        "total_projects": 3,
+        "high_risk_projects": 1,
+        "total_sanctioned": 1552998.0,
+        "spatial_risk_score": 0.3333,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1510394,
+          28.9895406
+        ]
+      },
+      "properties": {
+        "constituency_id": -20,
+        "const_name": "SONEPAT",
+        "state_name": "Haryana",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 300000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5339895,
+          19.6759452
+        ]
+      },
+      "properties": {
+        "constituency_id": -17,
+        "const_name": "ADILABAD(ST)",
+        "state_name": "Telangana",
+        "total_projects": 2,
+        "high_risk_projects": 2,
+        "total_sanctioned": 1500000.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.003476,
+          17.68897
+        ]
+      },
+      "properties": {
+        "constituency_id": -17,
+        "const_name": "ANAKAPALLE",
+        "state_name": "Andhra Pradesh",
+        "total_projects": 2,
+        "high_risk_projects": 2,
+        "total_sanctioned": 900000.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5367513,
+          24.2693869
+        ]
+      },
+      "properties": {
+        "constituency_id": -17,
+        "const_name": "BANASKANTHA",
+        "state_name": "Gujarat",
+        "total_projects": 4,
+        "high_risk_projects": 4,
+        "total_sanctioned": 2950000.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3361225,
+          13.0010872
+        ]
+      },
+      "properties": {
+        "constituency_id": -17,
+        "const_name": "BANGALORE RURAL",
+        "state_name": "Karnataka",
+        "total_projects": 5,
+        "high_risk_projects": 5,
+        "total_sanctioned": 4250000.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9463699,
+          30.206791
+        ]
+      },
+      "properties": {
+        "constituency_id": -17,
+        "const_name": "BHATINDA",
+        "state_name": "Punjab",
+        "total_projects": 4,
+        "high_risk_projects": 4,
+        "total_sanctioned": 3450000.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0444182,
+          21.2222313
+        ]
+      },
+      "properties": {
+        "constituency_id": -17,
+        "const_name": "RAVER",
+        "state_name": "Maharashtra",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 1200000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1358153,
+          27.8761073
+        ]
+      },
+      "properties": {
+        "constituency_id": -6,
+        "const_name": "ALIGARH",
+        "state_name": "Uttar Pradesh",
+        "total_projects": 1,
+        "high_risk_projects": 1,
+        "total_sanctioned": 1385546.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.003476,
+          17.68897
+        ]
+      },
+      "properties": {
+        "constituency_id": -6,
+        "const_name": "ANAKAPALLE",
+        "state_name": "Andhra Pradesh",
+        "total_projects": 4,
+        "high_risk_projects": 1,
+        "total_sanctioned": 5065785.0,
+        "spatial_risk_score": 0.25,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0444182,
+          21.2222313
+        ]
+      },
+      "properties": {
+        "constituency_id": -6,
+        "const_name": "RAVER",
+        "state_name": "Maharashtra",
+        "total_projects": 3,
+        "high_risk_projects": 0,
+        "total_sanctioned": 3464408.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7401576,
+          11.6644385
+        ]
+      },
+      "properties": {
+        "constituency_id": 1,
+        "const_name": "ANDAMAN AND NICOBAR ISLANDS",
+        "state_name": "Andaman And Nicobar Islands",
+        "total_projects": 69,
+        "high_risk_projects": 16,
+        "total_sanctioned": 164423259.0,
+        "spatial_risk_score": 0.2319,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.639,
+          26.4691
+        ]
+      },
+      "properties": {
+        "constituency_id": 2,
+        "const_name": "AJMER",
+        "state_name": "Rajasthan",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 495000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.003476,
+          17.68897
+        ]
+      },
+      "properties": {
+        "constituency_id": 2,
+        "const_name": "ANAKAPALLE",
+        "state_name": "Andhra Pradesh",
+        "total_projects": 7076,
+        "high_risk_projects": 1302,
+        "total_sanctioned": 4518769254.22,
+        "spatial_risk_score": 0.184,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9463699,
+          30.206791
+        ]
+      },
+      "properties": {
+        "constituency_id": 2,
+        "const_name": "BHATINDA",
+        "state_name": "Punjab",
+        "total_projects": 2,
+        "high_risk_projects": 1,
+        "total_sanctioned": 953452.0,
+        "spatial_risk_score": 0.5,
+        "cluster_id": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4228984,
+          27.2625165
+        ]
+      },
+      "properties": {
+        "constituency_id": 28,
+        "const_name": "ARUNACHAL WEST",
+        "state_name": "Arunachal Pradesh",
+        "total_projects": 627,
+        "high_risk_projects": 96,
+        "total_sanctioned": 418909342.0,
+        "spatial_risk_score": 0.1531,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.039708,
+          26.345941
+        ]
+      },
+      "properties": {
+        "constituency_id": 30,
+        "const_name": "BARPETA",
+        "state_name": "Assam",
+        "total_projects": 4082,
+        "high_risk_projects": 705,
+        "total_sanctioned": 2476634450.08,
+        "spatial_risk_score": 0.1727,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5339895,
+          19.6759452
+        ]
+      },
+      "properties": {
+        "constituency_id": 44,
+        "const_name": "ADILABAD(ST)",
+        "state_name": "Telangana",
+        "total_projects": 4,
+        "high_risk_projects": 0,
+        "total_sanctioned": 3300484.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.639,
+          26.4691
+        ]
+      },
+      "properties": {
+        "constituency_id": 44,
+        "const_name": "AJMER",
+        "state_name": "Rajasthan",
+        "total_projects": 8,
+        "high_risk_projects": 1,
+        "total_sanctioned": 6580054.0,
+        "spatial_risk_score": 0.125,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1358153,
+          27.8761073
+        ]
+      },
+      "properties": {
+        "constituency_id": 44,
+        "const_name": "ALIGARH",
+        "state_name": "Uttar Pradesh",
+        "total_projects": 11,
+        "high_risk_projects": 4,
+        "total_sanctioned": 6690542.0,
+        "spatial_risk_score": 0.3636,
+        "cluster_id": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.003476,
+          17.68897
+        ]
+      },
+      "properties": {
+        "constituency_id": 44,
+        "const_name": "ANAKAPALLE",
+        "state_name": "Andhra Pradesh",
+        "total_projects": 8,
+        "high_risk_projects": 3,
+        "total_sanctioned": 14879697.0,
+        "spatial_risk_score": 0.375,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.4654062,
+          26.1346459
+        ]
+      },
+      "properties": {
+        "constituency_id": 44,
+        "const_name": "ARARIA",
+        "state_name": "Bihar",
+        "total_projects": 11356,
+        "high_risk_projects": 1390,
+        "total_sanctioned": 7756384116.0,
+        "spatial_risk_score": 0.1224,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5367513,
+          24.2693869
+        ]
+      },
+      "properties": {
+        "constituency_id": 44,
+        "const_name": "BANASKANTHA",
+        "state_name": "Gujarat",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 684874.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3361225,
+          13.0010872
+        ]
+      },
+      "properties": {
+        "constituency_id": 44,
+        "const_name": "BANGALORE RURAL",
+        "state_name": "Karnataka",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 548000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.039708,
+          26.345941
+        ]
+      },
+      "properties": {
+        "constituency_id": 44,
+        "const_name": "BARPETA",
+        "state_name": "Assam",
+        "total_projects": 1,
+        "high_risk_projects": 1,
+        "total_sanctioned": 1361697.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9463699,
+          30.206791
+        ]
+      },
+      "properties": {
+        "constituency_id": 44,
+        "const_name": "BHATINDA",
+        "state_name": "Punjab",
+        "total_projects": 8,
+        "high_risk_projects": 3,
+        "total_sanctioned": 6230939.0,
+        "spatial_risk_score": 0.375,
+        "cluster_id": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0444182,
+          21.2222313
+        ]
+      },
+      "properties": {
+        "constituency_id": 44,
+        "const_name": "RAVER",
+        "state_name": "Maharashtra",
+        "total_projects": 4,
+        "high_risk_projects": 0,
+        "total_sanctioned": 3107000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1510394,
+          28.9895406
+        ]
+      },
+      "properties": {
+        "constituency_id": 44,
+        "const_name": "SONEPAT",
+        "state_name": "Haryana",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 548000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5805178,
+          8.5495014
+        ]
+      },
+      "properties": {
+        "constituency_id": 44,
+        "const_name": "TIRUNELVELI",
+        "state_name": "Tamil Nadu",
+        "total_projects": 1,
+        "high_risk_projects": 1,
+        "total_sanctioned": 683337.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7797143,
+          30.7334421
+        ]
+      },
+      "properties": {
+        "constituency_id": 84,
+        "const_name": "CHANDIGARH",
+        "state_name": "Chandigarh",
+        "total_projects": 142,
+        "high_risk_projects": 17,
+        "total_sanctioned": 130558458.82,
+        "spatial_risk_score": 0.1197,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5339895,
+          19.6759452
+        ]
+      },
+      "properties": {
+        "constituency_id": 85,
+        "const_name": "ADILABAD(ST)",
+        "state_name": "Telangana",
+        "total_projects": 1,
+        "high_risk_projects": 1,
+        "total_sanctioned": 395363.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.639,
+          26.4691
+        ]
+      },
+      "properties": {
+        "constituency_id": 85,
+        "const_name": "AJMER",
+        "state_name": "Rajasthan",
+        "total_projects": 2,
+        "high_risk_projects": 1,
+        "total_sanctioned": 1298310.0,
+        "spatial_risk_score": 0.5,
+        "cluster_id": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.003476,
+          17.68897
+        ]
+      },
+      "properties": {
+        "constituency_id": 85,
+        "const_name": "ANAKAPALLE",
+        "state_name": "Andhra Pradesh",
+        "total_projects": 2,
+        "high_risk_projects": 1,
+        "total_sanctioned": 900000.0,
+        "spatial_risk_score": 0.5,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4228984,
+          27.2625165
+        ]
+      },
+      "properties": {
+        "constituency_id": 85,
+        "const_name": "ARUNACHAL WEST",
+        "state_name": "Arunachal Pradesh",
+        "total_projects": 2,
+        "high_risk_projects": 2,
+        "total_sanctioned": 800000.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "constituency_id": 85,
+        "const_name": "Puducherry",
+        "state_name": "Puducherry",
+        "total_projects": 5,
+        "high_risk_projects": 1,
+        "total_sanctioned": 1799520.0,
+        "spatial_risk_score": 0.2,
+        "cluster_id": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3965501,
+          21.897618
+        ]
+      },
+      "properties": {
+        "constituency_id": 85,
+        "const_name": "RAIGARH(ST)",
+        "state_name": "Chhattisgarh",
+        "total_projects": 3809,
+        "high_risk_projects": 824,
+        "total_sanctioned": 1823376006.23,
+        "spatial_risk_score": 0.2163,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0444182,
+          21.2222313
+        ]
+      },
+      "properties": {
+        "constituency_id": 85,
+        "const_name": "RAVER",
+        "state_name": "Maharashtra",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 1000000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9937035,
+          15.3376121
+        ]
+      },
+      "properties": {
+        "constituency_id": 105,
+        "const_name": "SOUTH GOA",
+        "state_name": "Goa",
+        "total_projects": 364,
+        "high_risk_projects": 42,
+        "total_sanctioned": 454993814.61,
+        "spatial_risk_score": 0.1154,
+        "cluster_id": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5367513,
+          24.2693869
+        ]
+      },
+      "properties": {
+        "constituency_id": 107,
+        "const_name": "BANASKANTHA",
+        "state_name": "Gujarat",
+        "total_projects": 14572,
+        "high_risk_projects": 2047,
+        "total_sanctioned": 4732216661.88,
+        "spatial_risk_score": 0.1405,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1510394,
+          28.9895406
+        ]
+      },
+      "properties": {
+        "constituency_id": 133,
+        "const_name": "SONEPAT",
+        "state_name": "Haryana",
+        "total_projects": 3365,
+        "high_risk_projects": 564,
+        "total_sanctioned": 1706714971.38,
+        "spatial_risk_score": 0.1676,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5273594,
+          31.7096767
+        ]
+      },
+      "properties": {
+        "constituency_id": 143,
+        "const_name": "HAMIRPUR_HP",
+        "state_name": "Himachal Pradesh",
+        "total_projects": 3429,
+        "high_risk_projects": 733,
+        "total_sanctioned": 722987154.0,
+        "spatial_risk_score": 0.2138,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1854475,
+          33.74611
+        ]
+      },
+      "properties": {
+        "constituency_id": 147,
+        "const_name": "ANANTNAG",
+        "state_name": "Jammu And Kashmir",
+        "total_projects": 1856,
+        "high_risk_projects": 383,
+        "total_sanctioned": 770326637.56,
+        "spatial_risk_score": 0.2064,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.003476,
+          17.68897
+        ]
+      },
+      "properties": {
+        "constituency_id": 152,
+        "const_name": "ANAKAPALLE",
+        "state_name": "Andhra Pradesh",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 150000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1854475,
+          33.74611
+        ]
+      },
+      "properties": {
+        "constituency_id": 152,
+        "const_name": "ANANTNAG",
+        "state_name": "Jammu And Kashmir",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 300000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5367513,
+          24.2693869
+        ]
+      },
+      "properties": {
+        "constituency_id": 152,
+        "const_name": "BANASKANTHA",
+        "state_name": "Gujarat",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 150000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3361225,
+          13.0010872
+        ]
+      },
+      "properties": {
+        "constituency_id": 152,
+        "const_name": "BANGALORE RURAL",
+        "state_name": "Karnataka",
+        "total_projects": 3,
+        "high_risk_projects": 0,
+        "total_sanctioned": 900000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9463699,
+          30.206791
+        ]
+      },
+      "properties": {
+        "constituency_id": 152,
+        "const_name": "BHATINDA",
+        "state_name": "Punjab",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 250000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4912231,
+          24.0866962
+        ]
+      },
+      "properties": {
+        "constituency_id": 152,
+        "const_name": "HAZARIBAGH",
+        "state_name": "Jharkhand",
+        "total_projects": 7080,
+        "high_risk_projects": 882,
+        "total_sanctioned": 2484533691.0,
+        "spatial_risk_score": 0.1246,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3361225,
+          13.0010872
+        ]
+      },
+      "properties": {
+        "constituency_id": 166,
+        "const_name": "BANGALORE RURAL",
+        "state_name": "Karnataka",
+        "total_projects": 9421,
+        "high_risk_projects": 949,
+        "total_sanctioned": 5188718028.0,
+        "spatial_risk_score": 0.1007,
+        "cluster_id": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3737973,
+          11.8763836
+        ]
+      },
+      "properties": {
+        "constituency_id": 194,
+        "const_name": "KANNUR",
+        "state_name": "Kerala",
+        "total_projects": 7355,
+        "high_risk_projects": 469,
+        "total_sanctioned": 4049547665.75,
+        "spatial_risk_score": 0.0638,
+        "cluster_id": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4112172,
+          34.185416
+        ]
+      },
+      "properties": {
+        "constituency_id": 214,
+        "const_name": "LADAKH",
+        "state_name": "Ladakh",
+        "total_projects": 225,
+        "high_risk_projects": 23,
+        "total_sanctioned": 146478200.0,
+        "spatial_risk_score": 0.1022,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5339895,
+          19.6759452
+        ]
+      },
+      "properties": {
+        "constituency_id": 216,
+        "const_name": "ADILABAD(ST)",
+        "state_name": "Telangana",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 374156.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8940642,
+          21.8957942
+        ]
+      },
+      "properties": {
+        "constituency_id": 216,
+        "const_name": "BETUL(ST)",
+        "state_name": "Madhya Pradesh",
+        "total_projects": 14867,
+        "high_risk_projects": 2193,
+        "total_sanctioned": 5241720496.38,
+        "spatial_risk_score": 0.1475,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0444182,
+          21.2222313
+        ]
+      },
+      "properties": {
+        "constituency_id": 245,
+        "const_name": "RAVER",
+        "state_name": "Maharashtra",
+        "total_projects": 10393,
+        "high_risk_projects": 497,
+        "total_sanctioned": 8621275904.02,
+        "spatial_risk_score": 0.0478,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2171526,
+          25.5125616
+        ]
+      },
+      "properties": {
+        "constituency_id": 295,
+        "const_name": "TURA",
+        "state_name": "Meghalaya",
+        "total_projects": 1116,
+        "high_risk_projects": 140,
+        "total_sanctioned": 391555000.0,
+        "spatial_risk_score": 0.1254,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1072118,
+          25.7209382
+        ]
+      },
+      "properties": {
+        "constituency_id": 298,
+        "const_name": "NAGALAND",
+        "state_name": "Nagaland",
+        "total_projects": 71,
+        "high_risk_projects": 11,
+        "total_sanctioned": 196000000.0,
+        "spatial_risk_score": 0.1549,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5339895,
+          19.6759452
+        ]
+      },
+      "properties": {
+        "constituency_id": 299,
+        "const_name": "ADILABAD(ST)",
+        "state_name": "Telangana",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 100000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.639,
+          26.4691
+        ]
+      },
+      "properties": {
+        "constituency_id": 299,
+        "const_name": "AJMER",
+        "state_name": "Rajasthan",
+        "total_projects": 3,
+        "high_risk_projects": 0,
+        "total_sanctioned": 400000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.003476,
+          17.68897
+        ]
+      },
+      "properties": {
+        "constituency_id": 299,
+        "const_name": "ANAKAPALLE",
+        "state_name": "Andhra Pradesh",
+        "total_projects": 10,
+        "high_risk_projects": 2,
+        "total_sanctioned": 1500000.0,
+        "spatial_risk_score": 0.2,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.4654062,
+          26.1346459
+        ]
+      },
+      "properties": {
+        "constituency_id": 299,
+        "const_name": "ARARIA",
+        "state_name": "Bihar",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 100000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4228984,
+          27.2625165
+        ]
+      },
+      "properties": {
+        "constituency_id": 299,
+        "const_name": "ARUNACHAL WEST",
+        "state_name": "Arunachal Pradesh",
+        "total_projects": 2,
+        "high_risk_projects": 0,
+        "total_sanctioned": 300000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5367513,
+          24.2693869
+        ]
+      },
+      "properties": {
+        "constituency_id": 299,
+        "const_name": "BANASKANTHA",
+        "state_name": "Gujarat",
+        "total_projects": 2,
+        "high_risk_projects": 0,
+        "total_sanctioned": 200000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3361225,
+          13.0010872
+        ]
+      },
+      "properties": {
+        "constituency_id": 299,
+        "const_name": "BANGALORE RURAL",
+        "state_name": "Karnataka",
+        "total_projects": 3,
+        "high_risk_projects": 0,
+        "total_sanctioned": 400000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9463699,
+          30.206791
+        ]
+      },
+      "properties": {
+        "constituency_id": 299,
+        "const_name": "BHATINDA",
+        "state_name": "Punjab",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 100000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8792,
+          20.4686
+        ]
+      },
+      "properties": {
+        "constituency_id": 299,
+        "const_name": "CUTTACK",
+        "state_name": "Odisha",
+        "total_projects": 11167,
+        "high_risk_projects": 1650,
+        "total_sanctioned": 3804389942.0,
+        "spatial_risk_score": 0.1478,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3965501,
+          21.897618
+        ]
+      },
+      "properties": {
+        "constituency_id": 299,
+        "const_name": "RAIGARH(ST)",
+        "state_name": "Chhattisgarh",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 200000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0444182,
+          21.2222313
+        ]
+      },
+      "properties": {
+        "constituency_id": 299,
+        "const_name": "RAVER",
+        "state_name": "Maharashtra",
+        "total_projects": 5,
+        "high_risk_projects": 1,
+        "total_sanctioned": 900000.0,
+        "spatial_risk_score": 0.2,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1510394,
+          28.9895406
+        ]
+      },
+      "properties": {
+        "constituency_id": 299,
+        "const_name": "SONEPAT",
+        "state_name": "Haryana",
+        "total_projects": 5,
+        "high_risk_projects": 2,
+        "total_sanctioned": 700000.0,
+        "spatial_risk_score": 0.4,
+        "cluster_id": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9463699,
+          30.206791
+        ]
+      },
+      "properties": {
+        "constituency_id": 321,
+        "const_name": "BHATINDA",
+        "state_name": "Punjab",
+        "total_projects": 4134,
+        "high_risk_projects": 162,
+        "total_sanctioned": 1285518175.0,
+        "spatial_risk_score": 0.0392,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.639,
+          26.4691
+        ]
+      },
+      "properties": {
+        "constituency_id": 334,
+        "const_name": "AJMER",
+        "state_name": "Rajasthan",
+        "total_projects": 7532,
+        "high_risk_projects": 1897,
+        "total_sanctioned": 4151848486.01,
+        "spatial_risk_score": 0.2519,
+        "cluster_id": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.003476,
+          17.68897
+        ]
+      },
+      "properties": {
+        "constituency_id": 334,
+        "const_name": "ANAKAPALLE",
+        "state_name": "Andhra Pradesh",
+        "total_projects": 1,
+        "high_risk_projects": 1,
+        "total_sanctioned": 917512.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4058477,
+          27.6501206
+        ]
+      },
+      "properties": {
+        "constituency_id": 359,
+        "const_name": "SIKKIM",
+        "state_name": "Sikkim",
+        "total_projects": 182,
+        "high_risk_projects": 21,
+        "total_sanctioned": 237061826.0,
+        "spatial_risk_score": 0.1154,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5805178,
+          8.5495014
+        ]
+      },
+      "properties": {
+        "constituency_id": 360,
+        "const_name": "TIRUNELVELI",
+        "state_name": "Tamil Nadu",
+        "total_projects": 9951,
+        "high_risk_projects": 870,
+        "total_sanctioned": 8138332235.5,
+        "spatial_risk_score": 0.0874,
+        "cluster_id": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5339895,
+          19.6759452
+        ]
+      },
+      "properties": {
+        "constituency_id": 399,
+        "const_name": "ADILABAD(ST)",
+        "state_name": "Telangana",
+        "total_projects": 9574,
+        "high_risk_projects": 642,
+        "total_sanctioned": 3590619339.1,
+        "spatial_risk_score": 0.0671,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3879341,
+          23.9153329
+        ]
+      },
+      "properties": {
+        "constituency_id": 416,
+        "const_name": "TRIPURA WEST",
+        "state_name": "Tripura",
+        "total_projects": 291,
+        "high_risk_projects": 83,
+        "total_sanctioned": 419532528.0,
+        "spatial_risk_score": 0.2852,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5339895,
+          19.6759452
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "ADILABAD(ST)",
+        "state_name": "Telangana",
+        "total_projects": 5,
+        "high_risk_projects": 2,
+        "total_sanctioned": 1373761.28,
+        "spatial_risk_score": 0.4,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.639,
+          26.4691
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "AJMER",
+        "state_name": "Rajasthan",
+        "total_projects": 1,
+        "high_risk_projects": 1,
+        "total_sanctioned": 151933.26,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1358153,
+          27.8761073
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "ALIGARH",
+        "state_name": "Uttar Pradesh",
+        "total_projects": 32791,
+        "high_risk_projects": 8994,
+        "total_sanctioned": 14605464256.58,
+        "spatial_risk_score": 0.2743,
+        "cluster_id": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.003476,
+          17.68897
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "ANAKAPALLE",
+        "state_name": "Andhra Pradesh",
+        "total_projects": 3,
+        "high_risk_projects": 2,
+        "total_sanctioned": 894138.0800000001,
+        "spatial_risk_score": 0.6667,
+        "cluster_id": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.4654062,
+          26.1346459
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "ARARIA",
+        "state_name": "Bihar",
+        "total_projects": 3,
+        "high_risk_projects": 1,
+        "total_sanctioned": 455780.9,
+        "spatial_risk_score": 0.3333,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5367513,
+          24.2693869
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "BANASKANTHA",
+        "state_name": "Gujarat",
+        "total_projects": 3,
+        "high_risk_projects": 2,
+        "total_sanctioned": 455790.34,
+        "spatial_risk_score": 0.6667,
+        "cluster_id": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3361225,
+          13.0010872
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "BANGALORE RURAL",
+        "state_name": "Karnataka",
+        "total_projects": 2,
+        "high_risk_projects": 2,
+        "total_sanctioned": 303847.64,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.039708,
+          26.345941
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "BARPETA",
+        "state_name": "Assam",
+        "total_projects": 2,
+        "high_risk_projects": 0,
+        "total_sanctioned": 303847.64,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8940642,
+          21.8957942
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "BETUL(ST)",
+        "state_name": "Madhya Pradesh",
+        "total_projects": 2,
+        "high_risk_projects": 1,
+        "total_sanctioned": 303857.08,
+        "spatial_risk_score": 0.5,
+        "cluster_id": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9463699,
+          30.206791
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "BHATINDA",
+        "state_name": "Punjab",
+        "total_projects": 8,
+        "high_risk_projects": 2,
+        "total_sanctioned": 1215418.8800000001,
+        "spatial_risk_score": 0.25,
+        "cluster_id": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4912231,
+          24.0866962
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "HAZARIBAGH",
+        "state_name": "Jharkhand",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 151923.82,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0444182,
+          21.2222313
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "RAVER",
+        "state_name": "Maharashtra",
+        "total_projects": 2,
+        "high_risk_projects": 0,
+        "total_sanctioned": 303847.64,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1510394,
+          28.9895406
+        ]
+      },
+      "properties": {
+        "constituency_id": 418,
+        "const_name": "SONEPAT",
+        "state_name": "Haryana",
+        "total_projects": 2,
+        "high_risk_projects": 0,
+        "total_sanctioned": 303857.08,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1358153,
+          27.8761073
+        ]
+      },
+      "properties": {
+        "constituency_id": 498,
+        "const_name": "ALIGARH",
+        "state_name": "Uttar Pradesh",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 150000.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.003476,
+          17.68897
+        ]
+      },
+      "properties": {
+        "constituency_id": 498,
+        "const_name": "ANAKAPALLE",
+        "state_name": "Andhra Pradesh",
+        "total_projects": 2,
+        "high_risk_projects": 1,
+        "total_sanctioned": 399695.0,
+        "spatial_risk_score": 0.5,
+        "cluster_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8940642,
+          21.8957942
+        ]
+      },
+      "properties": {
+        "constituency_id": 498,
+        "const_name": "BETUL(ST)",
+        "state_name": "Madhya Pradesh",
+        "total_projects": 1,
+        "high_risk_projects": 0,
+        "total_sanctioned": 149657.0,
+        "spatial_risk_score": 0.0,
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9463699,
+          30.206791
+        ]
+      },
+      "properties": {
+        "constituency_id": 498,
+        "const_name": "BHATINDA",
+        "state_name": "Punjab",
+        "total_projects": 7,
+        "high_risk_projects": 4,
+        "total_sanctioned": 1193456.0,
+        "spatial_risk_score": 0.5714,
+        "cluster_id": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5367513,
+          24.2693869
+        ]
+      },
+      "properties": {
+        "constituency_id": 503,
+        "const_name": "BANASKANTHA",
+        "state_name": "Gujarat",
+        "total_projects": 1,
+        "high_risk_projects": 1,
+        "total_sanctioned": 5000000.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3361225,
+          13.0010872
+        ]
+      },
+      "properties": {
+        "constituency_id": 503,
+        "const_name": "BANGALORE RURAL",
+        "state_name": "Karnataka",
+        "total_projects": 1,
+        "high_risk_projects": 1,
+        "total_sanctioned": 2998802.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9463699,
+          30.206791
+        ]
+      },
+      "properties": {
+        "constituency_id": 503,
+        "const_name": "BHATINDA",
+        "state_name": "Punjab",
+        "total_projects": 1,
+        "high_risk_projects": 1,
+        "total_sanctioned": 1699693.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1510394,
+          28.9895406
+        ]
+      },
+      "properties": {
+        "constituency_id": 503,
+        "const_name": "SONEPAT",
+        "state_name": "Haryana",
+        "total_projects": 1,
+        "high_risk_projects": 1,
+        "total_sanctioned": 1477537.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5805178,
+          8.5495014
+        ]
+      },
+      "properties": {
+        "constituency_id": 503,
+        "const_name": "TIRUNELVELI",
+        "state_name": "Tamil Nadu",
+        "total_projects": 1,
+        "high_risk_projects": 1,
+        "total_sanctioned": 484498.0,
+        "spatial_risk_score": 1.0,
+        "cluster_id": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8306447,
+          11.9340568
+        ]
+      },
+      "properties": {
+        "constituency_id": 547,
+        "const_name": "Puducherry",
+        "state_name": "Puducherry",
+        "total_projects": 135,
+        "high_risk_projects": 6,
+        "total_sanctioned": 230248804.0,
+        "spatial_risk_score": 0.0444,
+        "cluster_id": 7
+      }
+    }
+  ]
+}

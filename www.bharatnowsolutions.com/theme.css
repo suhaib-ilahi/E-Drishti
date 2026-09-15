@@ -1,0 +1,350 @@
+:root {
+  --font-serif-primary: "Space Grotesk", "Trebuchet MS", sans-serif;
+  --font-serif-secondary: "Space Grotesk", "Trebuchet MS", sans-serif;
+  --font-sans: "Space Grotesk", "Trebuchet MS", sans-serif;
+  --font-handwritten: "IBM Plex Mono", Consolas, monospace;
+  --color-bg-light: #f4f7fb;
+  --color-bg-cream-alt: #e8eef7;
+  --color-bg-card: #ffffff;
+  --color-bg-card-sand: #eef3fa;
+  --color-text-primary: #10233f;
+  --color-text-secondary: #3e536f;
+  --color-text-muted: #6f8198;
+  --color-text-bright: #ffffff;
+  --color-accent-teal: #1458d4;
+  --color-accent-teal-hover: #0b43aa;
+  --color-accent-gold: #ff6b4a;
+  --color-accent-red: #d9415d;
+  --color-border-dark: #10233f;
+  --color-border-subtle: #10233f1c;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 8px;
+  --shadow-button: 3px 3px 0 #10233f;
+  --shadow-card: 0 14px 30px #173b6814;
+}
+
+html {
+  background: #f4f7fb;
+}
+body {
+  background-color: #f4f7fb;
+  background-image:
+    linear-gradient(#1458d40b 1px, transparent 1px),
+    linear-gradient(90deg, #1458d40b 1px, transparent 1px);
+  background-size: 32px 32px;
+  color: #10233f;
+  font-family: "Space Grotesk", "Trebuchet MS", sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+.font-serif {
+  color: #10233f;
+  font-family: "Space Grotesk", "Trebuchet MS", sans-serif;
+  letter-spacing: 0;
+}
+.eyebrow,
+.label,
+.stat-label,
+.nav-label,
+.badge,
+.mono,
+code {
+  font-family: "IBM Plex Mono", Consolas, monospace;
+  letter-spacing: 0.08em;
+}
+
+button,
+.btn,
+a[class*="button"],
+input,
+select,
+textarea {
+  font-family: "Space Grotesk", "Trebuchet MS", sans-serif;
+}
+button,
+.btn {
+  border-radius: 2px !important;
+}
+
+header,
+nav,
+.navbar,
+.site-header {
+  background: #ffffffee !important;
+  border-bottom: 2px solid #10233f !important;
+  backdrop-filter: blur(12px);
+}
+.nirikshak-overview-card,
+.card,
+[class*="card"] {
+  border-color: #10233f2e !important;
+  border-radius: 4px !important;
+  box-shadow: 0 14px 30px #173b6814 !important;
+}
+.nirikshak-overview-card {
+  background: #ffffff !important;
+}
+
+#hero [class*="marquee"],
+#hero [class*="stats"] {
+  position: relative;
+}
+#hero [class*="marquee"]::after,
+#hero [class*="stats"]::after {
+  content: "PROTOTYPE DATA / ILLUSTRATIVE ANALYTICS";
+  display: block;
+  margin-top: 1rem;
+  color: #6f8198;
+  font:
+    600 0.68rem/1.4 "IBM Plex Mono",
+    Consolas,
+    monospace;
+  letter-spacing: 0.08em;
+}
+
+.hero,
+#hero,
+section {
+  position: relative;
+}
+.hero::before,
+#hero::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto auto;
+  width: 28%;
+  height: 5px;
+  background: #ff6b4a;
+}
+
+.btn-primary,
+.primary-button,
+button[class*="primary"] {
+  background: #1458d4 !important;
+  color: #fff !important;
+  border: 2px solid #10233f !important;
+  box-shadow: 3px 3px 0 #10233f !important;
+}
+.btn-primary:hover,
+.primary-button:hover,
+button[class*="primary"]:hover {
+  background: #0b43aa !important;
+}
+
+.nirikshak-video__frame {
+  border: 2px solid #10233f;
+  background: linear-gradient(135deg, #1458d4, #10233f 58%, #ff6b4a);
+}
+
+footer {
+  background: #10233f !important;
+  color: #f4f7fb !important;
+}
+footer h3,
+footer div[style*="font-size: 1.45rem"],
+footer div[style*="font-size: 1.45rem"] * {
+  color: #f4f7fb !important;
+  font-family: "Space Grotesk", "Trebuchet MS", sans-serif !important;
+}
+footer .footer-nav-link {
+  color: #c8d7ea !important;
+  font-family: "Space Grotesk", "Trebuchet MS", sans-serif !important;
+}
+footer button,
+footer .btn-teal {
+  color: #ffffff !important;
+  font-family: "Space Grotesk", "Trebuchet MS", sans-serif !important;
+}
+footer [style*="font-size: 0.78rem"],
+footer [style*="font-size: 0.62rem"] {
+  color: #10233f !important;
+}
+footer [style*="font-size: 0.62rem"] {
+  color: #61748d !important;
+}
+footer div:has(> div > div[style*="MoSPI VERIFIED"]) {
+  display: none !important;
+}
+
+#investigation,
+#geospatial {
+  border-top: 2px solid #10233f;
+  background: #e8eef7;
+}
+#investigation [class*="card"],
+#geospatial [class*="card"] {
+  border-left: 4px solid #ff6b4a !important;
+}
+
+/* Dashboard console layout */
+body:has(select) {
+  background: #f4f7fb;
+}
+body:has(select) header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  min-height: 72px;
+  padding: 0.7rem clamp(1rem, 3vw, 2.5rem) !important;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  flex-wrap: wrap;
+  background: #ffffff !important;
+  border-bottom: 1px solid #d7e0eb !important;
+  box-shadow: 0 4px 18px #10233f12;
+}
+body:has(select) header nav {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  flex: 1;
+  min-width: min(100%, 420px);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+body:has(select) header nav::-webkit-scrollbar {
+  display: none;
+}
+body:has(select) header nav button,
+body:has(select) header > button {
+  min-height: 38px;
+  padding: 0.55rem 0.8rem;
+  border: 1px solid transparent !important;
+  border-radius: 4px !important;
+  background: transparent !important;
+  color: #3e536f !important;
+  box-shadow: none !important;
+  white-space: nowrap;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+body:has(select) header nav button:hover,
+body:has(select) header nav button[aria-current="page"] {
+  background: #e8eef7 !important;
+  border-color: #c9d6e7 !important;
+  color: #1458d4 !important;
+}
+body:has(select) main {
+  width: min(100% - 2rem, 1240px);
+  margin: 0 auto;
+  padding: 1.25rem 0 4rem;
+}
+.ed-dashboard-section-status {
+  display: inline-flex;
+  margin: 0 0 1rem;
+  padding: 0.35rem 0.6rem;
+  border-left: 3px solid #ff6b4a;
+  background: #e8eef7;
+  color: #3e536f;
+  font:
+    600 0.7rem "IBM Plex Mono",
+    Consolas,
+    monospace;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+body:has(select) header nav button[data-ed-active="true"] {
+  background: #1458d4 !important;
+  border-color: #10233f !important;
+  color: #ffffff !important;
+  box-shadow: 2px 2px 0 #10233f !important;
+}
+body:has(select) main > div > [hidden] {
+  display: none !important;
+}
+body:has(select) main > div > .ed-dashboard-panel-active {
+  border-left: 4px solid #1458d4 !important;
+  scroll-margin-top: 92px;
+}
+body:has(select) main > div > .ed-dashboard-panel-muted {
+  opacity: 0.92;
+}
+body:has(select) main select {
+  min-height: 40px;
+  border: 1px solid #b8c8d9 !important;
+  border-radius: 4px !important;
+  background: #ffffff !important;
+  color: #10233f !important;
+  padding: 0.55rem 0.75rem;
+}
+body:has(select) main [style*="grid-template-columns"] {
+  gap: 1rem !important;
+}
+body:has(select) main [style*="box-shadow"] {
+  border: 1px solid #d7e0eb !important;
+  border-radius: 8px !important;
+  box-shadow: 0 8px 20px #173b680d !important;
+}
+body:has(select) main table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+}
+body:has(select) main th {
+  background: #eef3fa;
+  color: #3e536f;
+  font:
+    600 0.7rem "IBM Plex Mono",
+    Consolas,
+    monospace;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+body:has(select) main td,
+body:has(select) main th {
+  padding: 0.8rem 0.7rem;
+  border-bottom: 1px solid #e1e8f0;
+}
+@media (max-width: 700px) {
+  body:has(select) header {
+    align-items: stretch;
+  }
+  body:has(select) header nav {
+    order: 3;
+    flex-basis: 100%;
+    min-width: 0;
+  }
+  body:has(select) main {
+    width: min(100% - 1rem, 1240px);
+    padding-top: 0.75rem;
+  }
+  body:has(select) main [style*="grid-template-columns"] {
+    grid-template-columns: 1fr !important;
+  }
+  body:has(select) main table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
+@media (min-width: 701px) and (max-width: 1100px) {
+  body:has(select) header {
+    flex-wrap: nowrap;
+  }
+  body:has(select) header nav {
+    min-width: 0;
+  }
+  body:has(select) header > div:last-child {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    flex-shrink: 0;
+  }
+}
+::selection {
+  background: #ff6b4a;
+  color: #10233f;
+}
+@media (max-width: 700px) {
+  body {
+    background-size: 24px 24px;
+  }
+  .hero::before,
+  #hero::before {
+    width: 45%;
+  }
+}
