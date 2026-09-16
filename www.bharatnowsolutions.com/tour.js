@@ -340,6 +340,18 @@
     ],
   };
 
+  const hindiHomeTour = [
+    { target: "header", title: "यहाँ से शुरू करें", text: "ऊपरी नेविगेशन से सार्वजनिक अवलोकन, समाधान, परियोजना इंटेलिजेंस और जांच अनुभागों के बीच जाएँ।" },
+    { target: "h1", title: "eDrishti क्या करता है", text: "यह प्लेटफॉर्म MPLADS रिकॉर्ड को निगरानी और सत्यापन के लिए समझने योग्य संकेतों में बदलता है।" },
+    { target: "text:Explore Dashboard", title: "इंटेलिजेंस वर्कस्पेस खोलें", text: "लाइव प्रोटोटाइप मेट्रिक्स, फ़िल्टर, जोखिम कतार और भूमिका-आधारित दृश्य देखने के लिए इस विकल्प का उपयोग करें।" },
+    { target: "#process", title: "इंटेलिजेंस प्रक्रिया देखें", text: "प्लेटफॉर्म डेटा संग्रह से विश्लेषण, विसंगति पहचान, जोखिम स्कोरिंग, व्याख्या और जांच प्राथमिकता तक आगे बढ़ता है।" },
+    { target: "#ai-detection", title: "पहचान संकेतों की समीक्षा करें", text: "ये मॉड्यूल वित्तीय, प्रगति, लागत, डुप्लिकेट कार्य, विलंब, साक्ष्य, एजेंसी और भौगोलिक संकेत दिखाते हैं।" },
+    { target: "text:Every Risk Score Comes With an Explanation", title: "केस को फ्लैग किए जाने का कारण समझें", text: "जोखिम को संबंधित संकेतों और मानव सत्यापन की सिफारिशों के साथ दिखाया जाता है। अलर्ट धोखाधड़ी का कानूनी निष्कर्ष नहीं है।" },
+    { target: "#investigation", title: "अलर्ट से कार्रवाई तक जाएँ", text: "उच्च जोखिम वाली परियोजनाओं की समीक्षा करें, डॉसियर बनाएँ और स्थल निरीक्षण भेजें।" },
+    { target: "#geospatial", title: "मानचित्र पर पैटर्न देखें", text: "जोखिम स्तर, परियोजना गतिविधि, निधि उपयोग और विसंगति संख्या के आधार पर जिलों और राज्यों की तुलना करें।" },
+    { target: "text:Ask eDrishti", title: "साधारण भाषा में प्रश्न पूछें", text: "विलंबित या उच्च जोखिम वाले कार्यों के बारे में पूछकर इंटेलिजेंस लेयर से जानकारी प्राप्त करें।" },
+  ];
+
   let overlay;
   let currentTour;
   let currentIndex = 0;
@@ -461,10 +473,11 @@
         `${routeLabel()} tour / ${currentIndex + 1} of ${currentTour.length}`;
       overlay.querySelector("h2").textContent = step.title;
       overlay.querySelector("p").textContent = step.text;
+      const isHindi = overlay.dataset.isHindi === "true";
       overlay.querySelector(".ed-tour-progress").textContent =
         currentIndex === currentTour.length - 1
-          ? "Last stop"
-          : "Use Next to continue";
+          ? isHindi ? "अंतिम चरण" : "Last stop"
+          : isHindi ? "आगे बढ़ने के लिए ‘आगे’ चुनें" : "Use Next to continue";
       overlay.querySelector("[data-tour-back]").disabled = currentIndex === 0;
       positionCard(rect);
     });
@@ -474,12 +487,17 @@
     ensureStyles();
     const type = routeType();
     if (!force && localStorage.getItem(`edrishti-tour-${type}`)) return;
-    currentTour = tours[type];
+    const isHindi = localStorage.getItem("nirikshak_language") === "hi";
+    currentTour = isHindi && type === "home" ? hindiHomeTour : tours[type];
     currentIndex = 0;
     if (overlay) overlay.remove();
     overlay = document.createElement("div");
     overlay.className = "ed-tour-overlay";
-    overlay.innerHTML = `<div class="ed-tour-spotlight"></div><section class="ed-tour-card" role="dialog" aria-modal="true" aria-label="Guided tour"><div class="ed-tour-kicker"></div><h2></h2><p></p><div class="ed-tour-progress"></div><div class="ed-tour-actions"><button type="button" data-tour-skip>Skip tour</button><span><button type="button" data-tour-back>Back</button> <button type="button" data-tour-next>Next</button></span></div></section>`;
+    const labels = isHindi
+      ? { aria: "निर्देशित भ्रमण", skip: "भ्रमण छोड़ें", back: "पीछे", next: "आगे", last: "अंतिम चरण", continue: "आगे बढ़ने के लिए ‘आगे’ चुनें" }
+      : { aria: "Guided tour", skip: "Skip tour", back: "Back", next: "Next", last: "Last stop", continue: "Use Next to continue" };
+    overlay.innerHTML = `<div class="ed-tour-spotlight"></div><section class="ed-tour-card" role="dialog" aria-modal="true" aria-label="${labels.aria}"><div class="ed-tour-kicker"></div><h2></h2><p></p><div class="ed-tour-progress"></div><div class="ed-tour-actions"><button type="button" data-tour-skip>${labels.skip}</button><span><button type="button" data-tour-back>${labels.back}</button> <button type="button" data-tour-next>${labels.next}</button></span></div></section>`;
+    overlay.dataset.isHindi = isHindi ? "true" : "false";
     document.body.appendChild(overlay);
     overlay.querySelector("[data-tour-skip]").onclick = () => {
       localStorage.setItem(`edrishti-tour-${type}`, "done");
@@ -509,8 +527,9 @@
     const launcher = document.createElement("button");
     launcher.className = "ed-tour-launcher";
     launcher.type = "button";
-    launcher.textContent = "? Guided tour";
-    launcher.title = "Replay the guided tour for this page";
+    const isHindi = localStorage.getItem("nirikshak_language") === "hi";
+    launcher.textContent = isHindi ? "? निर्देशित भ्रमण" : "? Guided tour";
+    launcher.title = isHindi ? "इस पृष्ठ का निर्देशित भ्रमण फिर चलाएँ" : "Replay the guided tour for this page";
     launcher.onclick = () => startTour(true);
     document.body.appendChild(launcher);
   }
