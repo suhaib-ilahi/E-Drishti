@@ -105,6 +105,42 @@ nav,
   letter-spacing: 0.08em;
 }
 
+#hero img[alt="MPLADS Risk Intelligence Illustration"] {
+  content: url("https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=900&q=85");
+  object-fit: cover;
+}
+
+#hero > .container > div:nth-child(2) {
+  display: block !important;
+}
+
+#hero > .container > div:nth-child(2) > div:first-child {
+  display: none !important;
+}
+
+#hero div:has(> img[alt="MPLADS Risk Intelligence Illustration"]) {
+  display: none !important;
+}
+
+#hero > .container img {
+  display: none !important;
+}
+
+#hero div:has(> button) {
+  justify-content: center !important;
+}
+
+#hero > .container > div:nth-child(2) > div:last-child {
+  max-width: 860px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#hero > .container > div:nth-child(2) > div:last-child > div:nth-of-type(2),
+#hero > .container > div:nth-child(2) > div:last-child > div:nth-of-type(3) {
+  justify-content: center;
+}
+
 .hero,
 #hero,
 section {
